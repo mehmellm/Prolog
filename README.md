@@ -1,1 +1,1 @@
-# Prolog-and-Lisp
+# Prolog
